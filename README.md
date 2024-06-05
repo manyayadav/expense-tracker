@@ -1,7 +1,7 @@
 
-## Expense Management System using MERN Stack
+### Expense Management System using MERN Stack
 
-Wb-based application designed to assist users in tracking and managing their daily expenses. This system is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a scalable, responsive, and user-friendly application.
+Wb-based application designed to assist users in tracking and managing their daily expenses.
 
 ### Tech Stack
 
