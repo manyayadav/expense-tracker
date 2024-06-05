@@ -1,7 +1,7 @@
 
 ### Expense Management System using MERN Stack
 
-Wb-based application designed to assist users in tracking and managing their daily expenses.
+Web-based application designed to assist users in tracking and managing their daily expenses.
 
 ### Tech Stack
 
